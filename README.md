@@ -23,3 +23,9 @@ Things you may want to cover:
 
 * ...
 # rails-tutorial
+
+## "Hello, world!"
+
+this is the first application for the
+[*Ruby on Rails Tutorial*](https://railstutorial.jp/)
+by [Michel Hartl](http://michelhartl.com/). Hello, world!
